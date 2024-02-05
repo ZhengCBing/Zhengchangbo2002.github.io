@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+
 
 Here is **Changbo zheng(郑昌博)**.
 
@@ -29,8 +29,11 @@ Expect to apply for a one-year Mes/Msc program and will graduate in Sep 2025. Lo
 ## Research Interests
 
 -Energy and power
+
 -Sustainable energy
+
 -Power electronics
+
 -And Risk management (Economics)
 
 Applying for the master of Science and engineering of 24fall, I am currently working with my teacher on the doctoral project of magnetic 25fall, not only in science and engineering but also in economics.
