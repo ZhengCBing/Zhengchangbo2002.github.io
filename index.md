@@ -12,6 +12,20 @@ I am currently a senior student in Xi 'an Jiaotong-Liverpool University and the 
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *zhengchangbo1611@163.com*
 
+# About Me
+
+
+- **Average Score (British standards):** 70/100 (Year1), 81/100 (Year2)
+- **Related courses(British standards):**
+- Engineering Mathematics II (82/100)
+- Digital Electronics II (97/100)
+- Electrical Circuits I (82/100)
+- C++ Programming and Software Eng. II (83/100)
+- Continuous and Discrete Time Signals and System(91/100)
+- Electronic Circuits and Systems (92/100)
+- Energy Conversion and Power Systems (93/100)
+- Microprocessor Systems (81/100)
+
 ## Academic Background
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
