@@ -40,14 +40,14 @@ links:
     url: /
   - title: Research Projects
     url: /Research/
-  - title: publication
-    url: /publications/
+ # - title: publication
+  #  url: /publications/
   - title: Awards
     url: /awards/
   - title: Internships
     url: /Internships/
-  - title: Hobbies
-    url: /hobbies/
+  #- title: Hobbies
+   # url: /hobbies/
   #- title: Blogs
    # url: /blogs/
 
