@@ -39,11 +39,13 @@ links:
   - title: About Me
     url: /
   - title: Research Projects
+    url: /Research/
+  - title: publication
     url: /publications/
   - title: Awards
     url: /awards/
   - title: Internships
-    url: /teams/
+    url: /Internships/
   - title: Hobbies
     url: /hobbies/
   #- title: Blogs
